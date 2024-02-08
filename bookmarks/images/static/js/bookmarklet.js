@@ -1,3 +1,4 @@
+// adding js
 (function(){
 	var jquery_version = '2.1.4';
 	var site_url = 'http://127.0.0.1:800/';
