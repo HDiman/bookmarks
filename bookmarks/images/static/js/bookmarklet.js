@@ -7,7 +7,7 @@
   var min_height = 100;
 
     function bookmarklet(msg) {
-     // load CSS
+     // load CSS files
      var css = jQuery('<link>');
      css.attr({
        rel: 'stylesheet',
